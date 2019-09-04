@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Anastasia](https://up.htmlacademy.ru/htmlcss/26/user/1053289).
+* Студент: [Anastasia с:](https://up.htmlacademy.ru/htmlcss/26/user/1053289).
 
 ---
 
